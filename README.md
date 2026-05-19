@@ -99,9 +99,9 @@ Tech content about:
 
 ## 📈 GitHub Stats
 
-![Jesus's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesusjacintofabian&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jesusjacintofabian&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusjacintofabian&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jesusjacintofabian&theme=github_dark)
 
 ---
 
