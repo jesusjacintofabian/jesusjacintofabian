@@ -1,110 +1,83 @@
-# 👋 Hi, I'm Jesus
+<!-- HEADER -->
+# 🛡️ Jesus | Cybersecurity & Linux Enthusiast
 
-💻 Cybersecurity student passionate about Linux, programming, and technology.  
-🐧 Learning every day and sharing knowledge with others.
-
----
-
-## 🚀 About Me
-
-- 🎓 Cybersecurity student at UTP Panama
-- 🇵🇪 Peruvian living in Panama
-- 🔄 Previously studied Computer Science / Informatics
-- 📚 Credit transfer student currently focused on Cybersecurity
-- 👨‍💻 Intermediate knowledge in C++
-- 🐍 Currently learning Python
-- 🐧 Learning Linux and system administration
-- 🛡️ Learning Cybersecurity and Ethical Hacking with Kali Linux
-- ⚡ Interested in automation, scripting, and security tools
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Linux+Enthusiast;Python+Learner;C%2B%2B+Intermediate;Ethical+Hacker+in+training" />
 
 ---
 
-## 🎯 Goals
+## 👋 About Me
 
-My goal is to work remotely in areas related to:
-
-- Programming
-- IT Support
-- Linux
-- Cybersecurity
-- Ethical Hacking
-
-I also want to build:
-
-- Automated scripts
-- Ethical hacking tools
-- Security-related projects
-- Useful applications for the community
-
-And share knowledge with other people 🚀
+💻 Cybersecurity student at UTP Panama  
+🐧 Passionate about Linux, Kali Linux & system security  
+🐍 Learning Python for automation & security tools  
+👨‍💻 Intermediate in C++  
+🇵🇪 Peruvian living in Panama  
+🚀 Focused on Ethical Hacking & real-world cybersecurity skills  
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🎯 Current Focus
 
-### Languages
-- C++
-- Python (learning)
+- 🛡️ Ethical Hacking & Pentesting basics  
+- 🐧 Linux system administration  
+- 🐍 Python scripting & automation  
+- 💻 Code analysis & reverse thinking  
+- 🔐 Cybersecurity fundamentals  
 
-### Operating Systems
-- Linux
-- Ubuntu
-- Kali Linux
-- Windows
+---
 
-### Tools
-- Git & GitHub
-- Docker
-- Winget
-- Linux Terminal
-- VS Code
+## ⚙️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode" />
+</p>
 
 ---
 
 ## 📺 Content Creator
 
 ### 🎥 Codemente
-YouTube channel focused on programming, especially C++, with future content about software development and technology.
+Programming content focused on **C++ and software development fundamentals**
 
 ### 🖥️ El Informatico
-Tech content about:
-- IT Support
-- Windows
-- Linux
-- Troubleshooting
-- Tech tips and solutions
+Tech tutorials:
+- Windows & Linux fixes  
+- IT support solutions  
+- Tech tips & troubleshooting  
 
 ---
 
 ## 🌐 Connect With Me
 
-- 🎥 YouTube: https://www.youtube.com/@elinformaticoo
-- 📘 Facebook: https://www.facebook.com/elinformaticoo/
-- 🎵 TikTok: https://www.tiktok.com/@elinformaticoo
-- 📸 Instagram: https://www.instagram.com/elinformaticoo/
-- 📝 Blog: https://jesusjacintofabian.blogspot.com/
+<p>
+<a href="https://www.youtube.com/@elinformaticoo"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube" /></a>
+<a href="https://www.facebook.com/elinformaticoo/"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook" /></a>
+<a href="https://www.tiktok.com/@elinformaticoo"><img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok" /></a>
+<a href="https://www.instagram.com/elinformaticoo/"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" /></a>
+<a href="https://jesusjacintofabian.blogspot.com/"><img src="https://img.shields.io/badge/Blog-orange?style=for-the-badge&logo=blogger" /></a>
+</p>
 
 ---
 
-## 📌 Current Learning
+## 📊 GitHub Stats
 
-- Python Development
-- Linux Administration
-- Cybersecurity Fundamentals
-- Ethical Hacking
-- Automation Scripts
-- Git & Open Source
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jesusjacintofabian&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jesusjacintofabian&theme=github_dark" />
 
 ---
 
-## 📈 GitHub Stats
+## 🧠 Mindset
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jesusjacintofabian&theme=github_dark)
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jesusjacintofabian&theme=github_dark)
+> “I don’t just learn code. I learn how systems behave, break, and defend them.”
 
 ---
 
-## ⚡ Personal Quote
+## 🚀 Goal
 
-> “Learning technology every day and sharing knowledge with the world.”
+To become a professional in **Cybersecurity, Ethical Hacking, and Linux systems**, while building tools and sharing knowledge with the world.
