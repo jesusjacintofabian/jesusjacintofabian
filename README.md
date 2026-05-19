@@ -57,8 +57,7 @@ And share knowledge with other people 🚀
 - Docker
 - Winget
 - Linux Terminal
-- Vs Code
-- Kali Linux
+- VS Code
 
 ---
 
@@ -75,18 +74,16 @@ Tech content about:
 - Troubleshooting
 - Tech tips and solutions
 
-Available on:
-- YouTube
-https://www.youtube.com/@elinformaticoo
-- Facebook
-https://www.facebook.com/elinformaticoo/
-- TikTok
-https://www.tiktok.com/@elinformaticoo
-- Instagram
-https://www.instagram.com/elinformaticoo/
+---
 
-I also share content on my tech blog 📝
-https://jesusjacintofabian.blogspot.com/
+## 🌐 Connect With Me
+
+- 🎥 YouTube: https://www.youtube.com/@elinformaticoo
+- 📘 Facebook: https://www.facebook.com/elinformaticoo/
+- 🎵 TikTok: https://www.tiktok.com/@elinformaticoo
+- 📸 Instagram: https://www.instagram.com/elinformaticoo/
+- 📝 Blog: https://jesusjacintofabian.blogspot.com/
+
 ---
 
 ## 📌 Current Learning
