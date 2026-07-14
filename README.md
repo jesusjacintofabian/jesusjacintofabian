@@ -1,4 +1,14 @@
 <!-- HEADER -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="jesusjacintofabian's GitHub profile" src="dark_mode.svg" />
+</picture>
+
+# 🛡️ Jesus | Cybersecurity & Linux Enthusiast
+
+[![](https://readme-typing-svg.herokuapp.com/?font=Fira+Code...
+
 # 🛡️ Jesus | Cybersecurity & Linux Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Linux+Enthusiast;Python+Learner;C%2B%2B+Intermediate;Ethical+Hacker+in+training" />
